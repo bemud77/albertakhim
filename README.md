@@ -1,6 +1,6 @@
 # Hello, I'm Albert
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/akhimien-albert-091669b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate in Cybersecurity with extensive experience in hardware and software computer management. I have a profound interest in technology and a strong dedication to solving complex problems.
 
