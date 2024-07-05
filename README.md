@@ -12,7 +12,7 @@ As an experienced IT System Administrator, my journey in computer science has fu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -63,5 +63,5 @@ As an experienced IT System Administrator, my journey in computer science has fu
 
 
 ## Projects
-- Detection Lab
+<a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
