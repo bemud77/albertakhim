@@ -15,7 +15,7 @@ As an experienced IT System Administrator, my journey in computer science has fu
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Phishing Awareness Campaign                   | SOC Automation Lab|
 
 ## Tools
 
@@ -65,3 +65,4 @@ As an experienced IT System Administrator, my journey in computer science has fu
 ## Projects
 <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
+- Phishing Awareness Campaign
