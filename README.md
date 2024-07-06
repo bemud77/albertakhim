@@ -64,5 +64,4 @@ As an experienced IT System Administrator, my journey in computer science has fu
 
 ## Projects
 <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
-- <a href="https://github.com/albertakhim/Phishing-Awareness-Campaign">Phishing Campaign Lab</a>
+<a href="https://github.com/albertakhim/Phishing-Awareness-Campaign">Phishing Campaign Lab</a>
