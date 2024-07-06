@@ -5,10 +5,9 @@
 I am a recent graduate in Cybersecurity with extensive experience in hardware and software computer management. I have a profound interest in technology and a strong dedication to solving complex problems.
 
 ## Objective
-As an experienced IT System Administrator, my journey in computer science has fueled a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As an experienced IT System Administrator, my journey in computer science has fueled a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, Vulnerability Analyst, Information system security Analyst, Cybersecurity Analyst
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,6 +18,7 @@ As an experienced IT System Administrator, my journey in computer science has fu
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
+
 ### Network Security and Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
