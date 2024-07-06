@@ -52,6 +52,13 @@ As an experienced IT System Administrator, my journey in computer science has fu
     <img src="https://img.shields.io/badge/-OpenCTI-00A4EF?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
 </div>
 
+### OSINT
+<div>
+   <img src="https://img.shields.io/badge/-Spiderfoot-EF3B2D?&style=for-the-badge&logo=Spiderfoot&logoColor=white" />
+   
+</div>
+
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
