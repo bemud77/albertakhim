@@ -11,11 +11,10 @@ As an experienced IT System Administrator, my journey in computer science has fu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>|
 | Spiderfoot Lab                                | <a href="https://github.com/albertakhim/Spiderfoot-Lab">Spiderfoot Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+|Snort Lab                                      | <a href="https://github.com/albertakhim/Snort-Lab">Snort Lab</a>|
 | Phishing Campaign Lab                         | <a href="https://github.com/albertakhim/Phishing-Awareness-Campaign">Phishing Campaign Lab </a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>|
 
 ## Tools
 
@@ -70,6 +69,7 @@ As an experienced IT System Administrator, my journey in computer science has fu
 
 
 ## Projects
-- <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/albertakhim/Spiderfoot-Lab">Spiderfoot Lab</a>
 - <a href="https://github.com/albertakhim/Phishing-Awareness-Campaign">Phishing Campaign Lab</a>
+- <a href="https://github.com/albertakhim/Snort-Lab">Snort Lab</a>
+- <a href="https://github.com/albertakhim/Detection-Lab">Detection Lab</a>
