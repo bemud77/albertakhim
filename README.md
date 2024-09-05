@@ -2,7 +2,7 @@
 
 <a href="www.linkedin.com/in/akhimien-albert-091669b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate in Cybersecurity with extensive experience in hardware and software computer management. I have a profound interest in technology and a strong dedication to solving complex problems.
+I am a graduate in Cybersecurity with extensive experience in hardware and software computer management. I have a profound interest in technology and a strong dedication to solving complex problems.
 
 ## Objective
 As an experienced IT System Administrator, my journey in computer science has fueled a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, Vulnerability Analyst, Information system security Analyst, Cybersecurity Analyst
